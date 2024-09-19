@@ -1,0 +1,17 @@
+   [
+    {
+        "id":1,
+        "nome":"tesoura",
+        "qtd": 3
+    },
+    {
+        "id":2,
+        "nome":"cola bastão",
+        "qtd": 8
+    },
+    {
+        "id":3,
+        "nome":"grampeador",
+        "qtd": 2
+    }
+   ]
